@@ -3,5 +3,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=github,git,linux,js,ts,react,redux,vercel,nodejs,express,mongodb,postma,vscode,npm,&perline=12)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=github,git,linux,vercel,vscode,&perline=12)](https://skillicons.dev)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elliotWoas&theme=react&hide_border=true&border_radius=4&card_width=684)](https://git.io/streak-stats)
 <br>
