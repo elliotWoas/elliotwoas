@@ -1,5 +1,9 @@
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Elliot%20woas%20;back%20end%20developer%20;&font=Fira%20Code&center=true&width=440&height=45&color=f15c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=B9B4C7&width=435&lines=elliot+woas+IMS)](https://git.io/typing-svg)<br>
 - 💻 I’m currently learning and working on open source projects*.
 - 🧑‍💻 I’m currently learning backend web and working on.
 - ✉️ Reach me out through [elliot3woas@gmail.com](mailto:mahdi1382bbamdad@gmail.com)
