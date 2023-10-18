@@ -8,7 +8,7 @@
 - 🧑‍💻 I’m currently learning backend web and working on.
 - ✉️ Reach me out through [elliot3woas@gmail.com](mailto:mahdi1382bbamdad@gmail.com)
 
-<pre> Skills i'm learning and working with👇                     I know a little about and I worked👇</pre>
+<pre> Skills i'm learning and working with👇                          I know a little about and I worked👇</pre>
 
   [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,postman,postma,npm,prisma,py,solidity,sqlite&perline=12)](https://skillicons.dev)
 
