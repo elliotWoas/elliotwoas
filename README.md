@@ -10,7 +10,7 @@
 
 <pre> Skills i'm learning and working with👇                            I know a little about and I worked👇</pre>
 
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,postman,postma,npm,prisma,py,solidityوnpm,sqlite&perline=12)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,postman,postma,npm,prisma,py,solidity,sqlite&perline=12)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,linux,vercel,vscode,bots,postma,npm,vite,react,graphql,docker&perline=12)](https://skillicons.dev)
 
