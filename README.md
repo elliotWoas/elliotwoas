@@ -14,7 +14,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,linux,vercel,vscode,bots,postma,npm,vite,react,graphql,docker&perline=12)](https://skillicons.dev)
 
-------------[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elliotWoas&theme=react&hide_border=true&border_radius=4&card_width=684)](https://git.io/streak-stats)------------
+------------[![GitHub Streak](https://streak-stats.demolab.com/?user=elliotwoas&theme=react&hide_border=true&border_radius=4&card_width=684)](https://git.io/streak-stats)------------
 <br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elliotWoas&theme=react) ------------------------
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elliotWoas&theme=react&utcOffset=8)
