@@ -5,7 +5,7 @@
 </p>
 
 - 💻 i currently work full time and freelance somewhere. but i always have free time. maybe because i can't sleep XD
-- 🤠 I'm currently a full-stack web developer and learning all day ;)
+- 🤠 I'm a full-stack web developer and learning all day ;)
 - ✉️ Reach me out through [elliot3woas@gmail.com](mailto:mahdi1382bbamdad@gmail.com)
 
 <pre>       Skills i'm learning and working with👇                     I know a little about and I worked👇</pre>
