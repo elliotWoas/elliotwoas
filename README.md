@@ -1,7 +1,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=keyhan%20omidwar%20;back-end%20developer%20;&font=Fira%20Code&center=true&width=440&height=45&color=FA0606&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Keyhan%20omidwar%20;Full-Stack%20Developer%20;&font=Fira%20Code&center=true&width=440&height=45&color=FA0606&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 - 💻 i currently work full time and freelance somewhere. but i always have free time. maybe because i can't sleep XD
