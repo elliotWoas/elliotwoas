@@ -4,8 +4,8 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=elliot%20woas%20;back-end%20developer%20;&font=Fira%20Code&center=true&width=440&height=45&color=FA0606&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-- 💻 I’m currently learning and working on open source projects*.
-- 🧑‍💻 I’m currently learning backend web and working on.
+- 💻 i currently work full time and freelance somewhere. but i always have free time. maybe because i can't sleep XD
+- 🧑‍💻 I'm currently a full-stack web developer and learning all day ;)
 - ✉️ Reach me out through [elliot3woas@gmail.com](mailto:mahdi1382bbamdad@gmail.com)
 
 <pre>       Skills i'm learning and working with👇                     I know a little about and I worked👇</pre>
