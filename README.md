@@ -10,9 +10,10 @@
 
 <pre> Skills i'm learning and working with👇                            I know a little about and I worked👇</pre>
 
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,postman,postma,prisma,py,go,solidity,sqlite&perline=12)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,vercel,vscode,bots,npmوpostma,vite,react,bash,graphql,docker&perline=12)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=go,js,ts,tailwind,react,nextjs,vite,figma,postma,php,laravel,bash&perline=12)](https://skillicons.dev)
+  
+[![My Skills](https://skillicons.dev/icons?i=py,nodejs,bun,express,nestjs,vercel,redis,docker,npmوpostma,rust,django,supabase,&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,postman,postgresql,mongodb,prisma,nginx,npmوpostma,cloudflare,jenkins,kubernetes,kafka&perline=13)](https://skillicons.dev)
 
 ------------[![GitHub Streak](https://streak-stats.demolab.com/?user=elliotwoas&theme=react&hide_border=true&border_radius=4&card_width=684)](https://git.io/streak-stats)------------
 <br>
